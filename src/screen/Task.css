@@ -1,0 +1,36 @@
+@import 'antd/dist/antd.css';
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 3rem;
+    display: flex;
+}
+
+.menu{
+    padding-right: 2.5rem;
+}
+.content{
+    padding-right: 2.5rem;
+}
+
+.search{
+    padding-bottom:2rem;
+}
+.block{
+    width: 481px ;
+    height: 856px;
+    background-color: #C2EBE6;
+}
+
+.Avatar{
+    margin: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.img{
+    padding-right: 2rem;
+}
